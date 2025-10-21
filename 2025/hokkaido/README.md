@@ -8,7 +8,6 @@
 <!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->
 <!-- 合併時間: 2025-10-21 19:46:24 (UTC+8) -->
 
-
 ## D1 | 11/14 Fri 抵達
 
 ## **10:55** ✈️ 抵達新千歲機場
@@ -28,12 +27,12 @@
 
 ## **14:05-14:35** 🚗 前往道の駅ウトナイ湖（**30min**）
 
-🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=新千歳空港&destination=道の駅ウトナイ湖&travelmode=driving)
-🚗 [NAVITIME 自駕導航](https://www.navitime.co.jp/maps/routeResult?start={"name":"新千歳空港","lat":42.787651,"lon":141.681057}&goal={"name":"道の駅ウトナイ湖","lat":42.699909,"lon":141.694545}&car=only.multi.turn&type=car&rough-estimate=taxi.co2&start-time=2025-11-14T14%3A05%3A00)
+🗺️ [Google Maps 導航](https://maps.app.goo.gl/GXEbTLbQ9ijGfiPs7)
+🚗 [NAVITIME 自駕導航](https://www.navitime.co.jp/maps/routeResult?start=%7B%22name%22%3A%22%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%20%E6%96%B0%E5%8D%83%E6%AD%B3%E7%A9%BA%E6%B8%AF%E5%BA%97%22%2C%22lat%22%3A42.817023%2C%22lon%22%3A141.679426%2C%22spot%22%3A%2201290-2127%22%2C%22road-type%22%3A%22default%22%7D&goal=%7B%22name%22%3A%22%E9%81%93%E3%81%AE%E9%A7%85%E3%82%A6%E3%83%88%E3%83%8A%E3%82%A4%E6%B9%96%22%2C%22lat%22%3A42.699909%2C%22lon%22%3A141.694545%2C%22road-type%22%3A%22default%22%7D&start-time=2025-11-14T14%3A05%3A00&car=only.multi.turn&rough-estimate=taxi.co2&type=car&car-route=smic)
 
 - 距離：約 25km
-- 行駛時間：約 15 分鐘 ✅ 已查證：北海道Likers官方資訊
-- 停留時間：15 分鐘
+- 行駛時間：約 20 分鐘
+- 停留時間：10 分鐘
 
 ### 道の駅ウトナイ湖
 
@@ -41,12 +40,12 @@
 - 營業時間：09:00-18:00（3-10月）✅ 已查證：道の駅ウトナイ湖官網
 - 特色：野鳥聖域，360度展望台
 
-## **14:40-15:25** 🚗 前往支笏湖ポロピナイ展望台（**45min**）
+## **14:40-15:35** 🚗 前往支笏湖ポロピナイ展望台（**55min**）
 
 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=道の駅ウトナイ湖&destination=ポロピナイ展望台&travelmode=driving)
 
 - 距離：約 30km
-- 行駛時間：約 35 分鈘 ✅ 已查證：北海道觀光資訊
+- 行駛時間：約 45 分鈘
 - 停留時間：10 分鈘
 
 ### ポロピナイ展望台（支笏湖）
@@ -55,16 +54,16 @@
 - 開放時間：24小時 ✅ 已查證：千歳市觀光資訊
 - 特色：支笏湖全景，免費停車場
 
-## **15:30-16:30** 🚗 前往登別溫泉雅亭溫泉飯店（**1h**）
+## **15:40-16:55** 🚗 前往登別溫泉雅亭溫泉飯店（**1h15min**）
 
 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=ポロピナイ展望台&destination=名湯の宿パークホテル雅亭&travelmode=driving)
-🚗 [NAVITIME 自駕導航](https://www.navitime.co.jp/maps/routeResult?start={"name":"ポロピナイ展望台","lat":36.352091,"lon":138.62691}&goal={"name":"名湯の宿パークホテル雅亭","lat":42.495362,"lon":141.145694}&car=only.multi.turn&type=car&rough-estimate=taxi.co2&start-time=2025-11-14T15%3A30%3A00)
+🚗 [NAVITIME 自駕導航](https://www.navitime.co.jp/maps/routeResult?start=%7B%22name%22%3A%22%E5%8C%97%E6%B5%B7%E9%81%93%E5%8D%83%E6%AD%B3%E5%B8%82%E5%B9%8C%E7%BE%8E%E5%86%85%22%2C%22lat%22%3A%2242.804790555555556%22%2C%22lon%22%3A%22141.32624305555555%22%2C%22road-type%22%3A%22default%22%7D&goal=%7B%22name%22%3A%22%E5%8C%97%E6%B5%B7%E9%81%93%E7%99%BB%E5%88%A5%E5%B8%82%E7%99%BB%E5%88%A5%E6%B8%A9%E6%B3%89%E7%94%BA%22%2C%22lat%22%3A%2242.49570166666667%22%2C%22lon%22%3A%22141.14132527777778%22%2C%22road-type%22%3A%22default%22%7D&start-time=2025-11-14T15%3A30%3A00&car=only.multi.turn&rough-estimate=taxi.co2&type=car&car-route=smic)
 
 - 距離：約 60km
-- 行駛時間：約 1小時 ✅ 已查證：北海道觀光資訊
+- 行駛時間：約 1h15min
 - 途經：支笏湖→千歲→苫小牧→登別
 
-## **16:30-17:25** 🏨 登別溫泉雅亭飯店 Check-in + 休息（**55min**）
+## **17:00-17:25** 🏨 登別溫泉雅亭飯店 Check-in + 休息（**25min**）
 
 ### 雅亭溫泉飯店
 
@@ -82,7 +81,6 @@
 
 - 5種不同泉質溫泉 ✅ 已查證：雅亭官網
 - 營業時間：24小時開放
-
 
 ---
 
