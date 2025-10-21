@@ -29,13 +29,14 @@
 
 
 
+
 ## 🔄 最後更新時間
 
-✅ 2025-10-03 15:55:08 (UTC+8)
+✅ 2025-10-21 19:21:43 (UTC+8)
 
 ---
 <!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->
-<!-- 合併時間: 2025-10-03 15:55:08 (UTC+8) -->
+<!-- 合併時間: 2025-10-21 19:21:43 (UTC+8) -->
 
 
 # D1 | 10/6 Mon 淺草購物 + 夜景
@@ -1221,12 +1222,12 @@
 ## 交通相關
 
 - [x] 台北桃園機場來回包車預訂
-- [ ] 設定 iPhone/Apple Watch Suica 卡
+- [x] 設定 iPhone/Apple Watch Suica 卡
 - ~~[ ] **預訂北陸新幹線車票**~~
   - ~~[ ] **D5 上野 → 輕井澤** - **09:30-11:00** - はくたか/あさま號（約70分鐘）~~
   - ~~[ ] **D8 輕井澤 → 上野** - **14:00-15:10** - はくたか/あさま號回程新幹線票券~~
 - [x] **確認京成電鐵 Access Express / Skyliner 時刻表** - **D1 14:00 出發** - 成田機場第1航廈→青砥→四木站
-- [ ] **D8 京成上野→成田機場 [Skyliner](https://skyliner.ec.keisei.co.jp/member/EAA01/GEAA01010.xhtml)
+- [ ] **D8 京成上野 → 成田機場 [Skyliner](https://skyliner.ec.keisei.co.jp/member/EAA01/GEAA01010.xhtml)
 - [x] **租車**
 - [x] 下載並研讀官方交通時程表資訊
   - [x] [乘換案內](https://world.jorudan.co.jp/mln/zh-tw/)
@@ -1266,7 +1267,7 @@
 
 ## 其他準備
 
-- [] 保險
+- [x] 保險
 - [x] esim
 - [x] 下載 Google Translate 離線日文包
 - [x] 下載東京地鐵 App
@@ -1421,7 +1422,7 @@
 
 ### 信用卡資訊
 
-![alt text](image-1.png)
+![alt text](../image-1.png)
 
 #### [JCB 優惠](https://www.specialoffers.jcb/zh-tw/campaign/d/east-asia/japan/?c=retail_store) ✅ 已查證：JCB官網 2025年
 
@@ -1459,7 +1460,7 @@
   - 日本行程累積消費滿 1,000 日圓，正卡人本人即可於指定地點出示【J卡】與【日本伴手禮兌換券】免費兌換日本伴手禮
   - ✅ 關東淺草松屋百貨退稅服務台 位於 3 樓免稅櫃台
 
-![alt text](image.png)
+![alt text](../image.png)
 
 #### 使用策略 ✅ 已依查證結果優化
 
