@@ -151,11 +151,12 @@ jobs:
         echo "<!-- 合併時間: $(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)') -->" >> temp_merged.md
         echo "" >> temp_merged.md
         
-        # 合併所有 D*.md 檔案
+        # 合併所有 D*.md 檔案，確保標題層級正確
         for day_file in D*.md; do
           if [ -f "$day_file" ]; then
             echo "" >> temp_merged.md
-            cat "$day_file" >> temp_merged.md
+            # 將 H1 標題轉換為 H2 標題，保持其他層級不變
+            sed 's/^# /## /' "$day_file" >> temp_merged.md
             echo "" >> temp_merged.md
           fi
         done
@@ -165,7 +166,8 @@ jobs:
           echo "" >> temp_merged.md
           echo "---" >> temp_merged.md
           echo "" >> temp_merged.md
-          cat todo.md >> temp_merged.md
+          # 將 H1 標題轉換為 H2 標題
+          sed 's/^# /## /' todo.md >> temp_merged.md
         fi
 
         # 添加 Remark 清單（如果存在）
@@ -173,7 +175,8 @@ jobs:
           echo "" >> temp_merged.md
           echo "---" >> temp_merged.md
           echo "" >> temp_merged.md
-          cat remark.md >> temp_merged.md
+          # 將 H1 標題轉換為 H2 標題
+          sed 's/^# /## /' remark.md >> temp_merged.md
         fi
 
         # 添加 Transportation 清單（如果存在）
@@ -181,7 +184,8 @@ jobs:
           echo "" >> temp_merged.md
           echo "---" >> temp_merged.md
           echo "" >> temp_merged.md
-          cat transportation.md >> temp_merged.md
+          # 將 H1 標題轉換為 H2 標題
+          sed 's/^# /## /' transportation.md >> temp_merged.md
         fi
         
         # 替換原檔案
@@ -199,5 +203,7 @@ jobs:
 
         🔄 Generated with [Claude Code](https://claude.ai/code)
 
-        Co-Authored-By: Claude <noreply@anthropic.com>"
+        Co-Authored-By: Claude <noreply@anthropic.com>
+
+        [skip ci]"
         git push
