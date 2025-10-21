@@ -44,16 +44,16 @@ jobs:
             PROJECT_DIR=$(dirname "$file")
             echo "Found itinerary file in: $PROJECT_DIR"
             
-            # 檢查專案目錄是否存在主行程檔案
-            if ls "$PROJECT_DIR"/README.md 1> /dev/null 2>&1; then
-              echo "Found main itinerary file in $PROJECT_DIR"
+            # 檢查專案目錄是否存在主行程檔案或其他行程相關檔案
+            if ls "$PROJECT_DIR"/README.md 1> /dev/null 2>&1 || ls "$PROJECT_DIR"/D*.md 1> /dev/null 2>&1; then
+              echo "Found itinerary files in $PROJECT_DIR"
               # 避免重複添加
               if [[ ! " ${PROJECTS[@]} " =~ " ${PROJECT_DIR} " ]]; then
                 PROJECTS+=("$PROJECT_DIR")
                 echo "Added project: $PROJECT_DIR"
               fi
             else
-              echo "No main itinerary file found in $PROJECT_DIR"
+              echo "No itinerary files found in $PROJECT_DIR"
             fi
           fi
         done
@@ -103,6 +103,19 @@ jobs:
         # 尋找主行程檔案
         MAIN_FILE="README.md"
         echo "Main file: $MAIN_FILE"
+        
+        # 如果 README.md 不存在，則根據專案名稱建立預設的標題檔案
+        if [ ! -f "$MAIN_FILE" ]; then
+          echo "README.md not found, creating default template..."
+          PROJECT_NAME=$(basename "${{ matrix.project }}")
+          echo "# $PROJECT_NAME 旅遊行程" > "$MAIN_FILE"
+          echo "" >> "$MAIN_FILE"
+          echo "> **自動生成的行程合併檔案**" >> "$MAIN_FILE"
+          echo "" >> "$MAIN_FILE"
+          echo "## 📅 行程目錄" >> "$MAIN_FILE"
+          echo "" >> "$MAIN_FILE"
+          echo "---" >> "$MAIN_FILE"
+        fi
         
         # 備份原始檔案
         cp "$MAIN_FILE" "${MAIN_FILE}.backup"
