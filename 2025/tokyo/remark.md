@@ -143,7 +143,7 @@
 
 ### 信用卡資訊
 
-![alt text](image-1.png)
+![alt text](../image-1.png)
 
 #### [JCB 優惠](https://www.specialoffers.jcb/zh-tw/campaign/d/east-asia/japan/?c=retail_store) ✅ 已查證：JCB官網 2025年
 
@@ -181,7 +181,7 @@
   - 日本行程累積消費滿 1,000 日圓，正卡人本人即可於指定地點出示【J卡】與【日本伴手禮兌換券】免費兌換日本伴手禮
   - ✅ 關東淺草松屋百貨退稅服務台 位於 3 樓免稅櫃台
 
-![alt text](image.png)
+![alt text](../image.png)
 
 #### 使用策略 ✅ 已依查證結果優化
 
