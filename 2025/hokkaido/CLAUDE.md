@@ -146,8 +146,8 @@
 
 1. 11/14-11/15｜[雅亭溫泉飯店](http://www.miyabitei.jp)
    - 地址：〒059-0551 北海道登別市登別温泉町100
-2. 11/15-11/17｜
-   - 地址：
+2. 11/15-11/17｜Central Stay Sapporo
+   - 地址：〒064-0810 北海道札幌市中央区南10条西7丁目4−16
 3. 11/17-11/19｜[Minn 千歳](https://staytuned.asia/ja/brands/minn/hotels/minn-chitose)
    - 地址：北海道千歳市柏台南2-1-1
 
